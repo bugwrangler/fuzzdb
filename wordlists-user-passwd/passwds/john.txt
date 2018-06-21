@@ -8,6 +8,7 @@ tigger
 a1b2c3
 qwerty
 123
+Password!1
 xxx
 money
 test
